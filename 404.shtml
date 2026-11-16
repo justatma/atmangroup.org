@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Not found · Atman Group</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#EDF1EE">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<style>
+@font-face{font-family:'Jost';font-style:normal;font-weight:400;font-display:swap;src:url(/assets/fonts/jost-400.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:500;font-display:swap;src:url(/assets/fonts/jost-500.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:600;font-display:swap;src:url(/assets/fonts/jost-600.woff2) format('woff2')}
+@font-face{font-family:'Jost';font-style:normal;font-weight:700;font-display:swap;src:url(/assets/fonts/jost-700.woff2) format('woff2')}
+@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;src:url(/assets/fonts/ibm-plex-mono-400.woff2) format('woff2')}
+@font-face{font-family:'IBM Plex Serif';font-style:italic;font-weight:400;font-display:swap;src:url(/assets/fonts/ibm-plex-serif-400-italic.woff2) format('woff2')}
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:500;font-display:swap;src:url(/assets/fonts/noto-sans-devanagari-500.woff2) format('woff2')}
+html{-webkit-text-size-adjust:100%}
+body{margin:0}
+a{color:inherit}
+.door{transition:background-color 120ms cubic-bezier(.2,0,0,1)}
+.door:hover{background-color:#F0B323}
+.door:focus-visible{outline:3px solid #386C71;outline-offset:-3px}
+.skip{position:absolute;left:-9999px;top:0;z-index:10;padding:12px 16px;background:#F0B323;color:#161D1A;font:600 15px/1 'Jost',sans-serif}
+.skip:focus{left:0}
+</style>
+</head>
+<body>
+<div style="min-height: 100vh; box-sizing: border-box; background: #EDF1EE; color: #161D1A; font-family: 'Jost', 'Futura PT', 'Century Gothic', sans-serif; font-size: 17px; line-height: 1.5; -webkit-font-smoothing: antialiased">
+<div aria-hidden="true" style="height: 26px; background: #161D1A"></div>
+<main style="margin-left: clamp(12px, 4.4vw, 56px); border-left: 8px solid #161D1A; padding-left: clamp(18px, 3.75vw, 48px); padding-right: clamp(20px, 4.4vw, 56px); display: flex; flex-direction: column; gap: 28px; padding-top: 72px; padding-bottom: 80px">
+<span style="font-size: 13px; font-weight: 500; letter-spacing: 0.28em; line-height: 1; text-transform: uppercase">atmangroup.org</span>
+<h1 style="margin: 0; font-size: clamp(40px, 7.6vw, 104px); line-height: 0.92; font-weight: 700; letter-spacing: -0.03em">Nothing here.</h1>
+<p style="margin: 0; max-width: 640px; font-size: 19px; line-height: 1.5">You went looking for a page that does not exist. This site has exactly one.</p>
+<p style="margin: 0"><a href="/" style="display: inline-block; padding: 14px 22px; border: 3px solid #161D1A; font-size: 17px; font-weight: 600; text-decoration: none">Go to the one page</a></p>
+</main>
+</div>
+</body>
+</html>
