@@ -10,3 +10,6 @@ DirectoryIndex index.html
   RewriteCond %{HTTP_HOST} !^atmangroup\.org$ [NC]
   RewriteRule ^ https://atmangroup.org%{REQUEST_URI} [L,R=301]
 </IfModule>
+
+# ---- Branded not-found page (redesign 2026-11-16) ----
+ErrorDocument 404 /404.html
